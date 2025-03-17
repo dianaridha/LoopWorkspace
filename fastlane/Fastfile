@@ -229,7 +229,7 @@ platform :ios do
         "com.#{TEAMID}.loopkit.Loop.LoopWatch", 
         "com.#{TEAMID}.loopkit.Loop.Loop-Intent-Extension",
         "com.#{TEAMID}.loopkit.Loop.LoopWidgetExtension",
-{:readonly=>true}
+      readonly=>true
       ]
     )
   end
